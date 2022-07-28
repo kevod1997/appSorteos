@@ -1,0 +1,19 @@
+#conteiner{
+ background-color: cornflowerblue;
+ border: 1px solid black;
+ width: 400px;
+ height: 400px;
+}
+
+#store{
+margin-left:10% ;
+margin-top:5%;
+background-color: white;  
+width: 300px;  
+height: 250px;
+border: 1px solid black;
+}
+
+p{
+    font-weight: bold;
+}
